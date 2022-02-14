@@ -6,12 +6,4 @@ Es una tentativa de seminario, con el objetivo de proporcionar una introducción
 
 
 Mikel Larrea (2019).
-
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
   
